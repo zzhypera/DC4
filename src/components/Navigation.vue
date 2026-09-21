@@ -48,6 +48,42 @@
 
         <li class="nav-item">
           <RouterLink
+            to="/basket"
+            class="nav-link"
+          >
+            Basket
+          </RouterLink>
+        </li>
+
+        <li class="nav-item">
+          <RouterLink
+            to="/ecommerce"
+            class="nav-link"
+          >
+            Ecommerce
+          </RouterLink>
+        </li>
+
+        <li class="nav-item">
+          <RouterLink
+            to="/order"
+            class="nav-link"
+          >
+            Order
+          </RouterLink>
+        </li>
+
+        <li class="nav-item">
+          <RouterLink
+            to="/product"
+            class="nav-link"
+          >
+            Product
+          </RouterLink>
+        </li>
+
+        <li class="nav-item">
+          <RouterLink
             to="/registration"
             class="nav-link"
           >
